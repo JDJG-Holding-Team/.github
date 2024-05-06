@@ -2,7 +2,7 @@
 
 ## **We are tied to the organizations below**:
 
-- [JDJG-Holding-Team](https://github.com/JDJG-Holding-Team) (Owners/Managers)
+- [JDJG's Projects](https://github.com/JDsProjects/) (Manages)
 
 ## **Alternative Projects**
 These are projects that don't get worked on much but are still available for collaboration.
