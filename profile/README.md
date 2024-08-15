@@ -20,3 +20,11 @@ These are projects that don't get worked on much but are still available for col
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+
+Possible Donation page here:
+https://opencollective.com/jdbot-bot
+https://opencollective.com/melody-api
+
+If you wish to donate talk to me on discord first.
+I would prefer you talk to me first and reminder only donate if you **truly** want to.
