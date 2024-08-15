@@ -24,6 +24,7 @@ These are projects that don't get worked on much but are still available for col
 
 Possible Donation page here:
 https://opencollective.com/jdbot-bot
+
 https://opencollective.com/melody-api
 
 If you wish to donate talk to me on discord first.
